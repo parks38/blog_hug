@@ -22,12 +22,12 @@ footnotereturnlinkcontents = "↩"
     author = "Sunny Park"
     bio = "Software Engineer"
     location = "Seoul, Korea"
-    site_description = ""
+    site_description = "ghgghg"
     copyright  = "copyright @ Sunny Park "
     avatar = "css/images/avatar.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
     # will fallback to the avatar.
-    gravatar = "you@example.com"
+    gravatar = "parks38@uw.edu"
     logo = "css/images/logo.png"
     disable_mathjax = false # set to true to disable MathJax
 
@@ -54,17 +54,17 @@ footnotereturnlinkcontents = "↩"
 
 [[params.menu]]
     before = false
-    label  = "Tags"
+    label  = "About"
     link   = "tags/"
 
 [[params.menu]]
     before = false
-    label  = "Categories"
+    label  = "Posts"
     link   = "categories/"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/gohugoio"
+    follow_button = "https://github.com/parks38"
 
 
 [social]
@@ -75,7 +75,6 @@ footnotereturnlinkcontents = "↩"
 
     flickr          = ""
     instagram       = ""
-
     linkedin        = ""
 
 

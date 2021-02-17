@@ -32,7 +32,7 @@ tags: [Java, JVM, JDK JRE]
 
 ### **▶️ JVM (Java Virtual Machine)**
 
-![컴파일 원리](/static/image/jvm.jpg)
+<img src="/static/image/jvm.jpg" width="400px" height="400px">
 
 : `자바의 가상 머신 (스택 기반)` / 자바 프로그램 실행 환경 만들어주는 소프트웨어
 
@@ -125,7 +125,7 @@ JIT(Just in Time) 컴파일러는 하드웨어의 발전으로 native 코드로 
 
 ### **▶️ JDK와 JRE의 차이**
 
-![JDK](/static/image/jdk.jpg)
+<img src="/static/image/jdk.jpg" width="500px" height="300px">
 
 - `JDK (Java Development Kit)`
 

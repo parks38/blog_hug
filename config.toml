@@ -16,6 +16,10 @@ footnotereturnlinkcontents = "↩"
 [permalinks]
     post = "/:year/:month/:day/:slug"
 
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
 
 [params]
     # Tell me who you are
@@ -59,7 +63,7 @@ footnotereturnlinkcontents = "↩"
 
 [[params.menu]]
     before = false
-    label  = "Posts"
+    label  = "Categories"
     link   = "categories/"
 
 # Enter a link for the follow button on the left
